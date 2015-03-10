@@ -1,6 +1,6 @@
 {
   "indent": 4,
-  "maxcomplexity": 8,
+  "maxcomplexity": 10,
   "maxdepth": 5,
   "maxerr": 10,
   "maxlen": 80,
@@ -25,7 +25,7 @@
   "nonew": true,
   "plusplus": true,
   "quotmark": "single",
-  "singleGroups": true,
+  "singleGroups": false,
   "strict": true,
   "undef": true,
   "unused": true,
